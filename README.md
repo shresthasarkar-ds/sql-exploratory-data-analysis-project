@@ -89,7 +89,7 @@ sql-exploratory-data-analysis-project/
 ├── README.md
 ├── sql/
 │   ├── 00_init_database.sql
-|   ├──01_database_exploration.sql
+|   ├── 01_database_exploration.sql
 │   ├── 02_dimensions_exploration.sql
 │   ├── 03_date_exploration.sql
 │   ├── 04_measures_exploration.sql
